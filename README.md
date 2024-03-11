@@ -1,2 +1,3 @@
 # doTask📝
-A single todo app page, built using react + typescript.
+
+A single todo app page, built using react + typescript + ReduxToolkit.
