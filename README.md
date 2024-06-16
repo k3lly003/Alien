@@ -1,3 +1,2 @@
-# doTask📝
-
-A single todo app page, built using react + typescript + ReduxToolkit.
+# Alien👽
+Learning JAVA ![alt text](image-1.png).
